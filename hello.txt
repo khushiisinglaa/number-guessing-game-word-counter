@@ -1,0 +1,3 @@
+Python is easy to learn.
+Python is useful for data science.
+Learning Python is fun.
